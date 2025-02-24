@@ -8,7 +8,7 @@
 ---
 
 ### 🌱 Currently Learning
-- **Next.js** & **Nest.js** — Leveling up my full-stack game!
+**Nest.js** — Leveling up my full-stack game!
 
 ### 💼 Collaboration
 - Open to collaborating on **Front-End** and **Back-End** projects
