@@ -1,5 +1,5 @@
 <h1 align="center" style="font-size: 3em; font-weight: bold; color: #4CAF50;">👋 Hey, I'm Muzamil Hussain!</h1>
-<h3 align="center" style="color: #555555;">🚀 A Passionate Full Stack Engineer from Pakistan</h3>
+<h3 align="center" style="color: #555555;">🚀 A Passionate Softwere Engineer from Pakistan</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=muzamilhunzai&label=Profile%20views&color=0e75b6&style=flat" alt="muzamilhunzai" />
