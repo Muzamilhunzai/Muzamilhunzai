@@ -1,5 +1,10 @@
-<h1 align="center" style="font-size: 3em; font-weight: bold; color: #4CAF50;">👋 Hey, I'm Muzamil Hussain!</h1>
-<h3 align="center" style="color: #555555;">🚀 A Passionate Softwere Engineer from Pakistan</h3>
+<h1 align="center" style="font-size: 3em; font-weight: bold;">
+👋 Hey, I'm Muzamil Hussain!
+</h1>
+
+<h3 align="center" style="color: #555;">
+🚀 Full-Stack Developer | 🧠 AI Enthusiast | 🇵🇰 Pakistan
+</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=muzamilhunzai&label=Profile%20views&color=0e75b6&style=flat" alt="muzamilhunzai" />
@@ -7,28 +12,44 @@
 
 ---
 
-### 🌱 Currently Learning
-**Nest.js** — Leveling up my full-stack game!
-
-### 💼 Collaboration
-- Open to collaborating on **Front-End** and **Back-End** projects
-
-### 💡 Ask Me About
-- React.js, Node.js, and building dynamic web apps
-
-### 📫 Reach Me
-- **muzamilhussain55441@gmail.com**
+## 🌱 Currently Learning
+- Next.js (App Router, Server Components, Performance Optimization)
+- System Design & Scalable Backend Architecture
+- AI/ML integration in web applications
 
 ---
 
-### 💻 Tech Stack
+## 💼 Collaboration
+- Open to collaborating on **Full-Stack Web Applications**
+- Interested in building real-world SaaS products
+- Always open to impactful engineering projects
+
+---
+
+## 💡 Ask Me About
+- React.js / Next.js
+- Node.js / Express
+- REST APIs & Backend Development
+- Building scalable web applications
+
+---
+
+## 📫 Reach Me
+- **Email:** muzamilhussain55441@gmail.com  
+- **GitHub:** https://github.com/muzamilhunzai  
+
+---
+
+## 💻 Tech Stack
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nextjs,nestjs,react,nodejs,typescript,javascript,html,css,sass,mongodb,postgresql,aws,docker,git,github,linux,figma,photoshop" />
+  <img src="https://skillicons.dev/icons?i=nextjs,react,nodejs,express,typescript,javascript,html,css,mongodb,postgresql,git,github,linux,docker" />
 </p>
 
 ---
 
-### 📊 GitHub Stats
+## 📊 GitHub Stats
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=muzamilhunzai&show_icons=true&theme=radical" alt="GitHub Stats" />
   <br>
@@ -39,33 +60,38 @@
 
 ---
 
-### 🔗 Connect With Me
+## 🔗 Connect With Me
+
 <p align="center">
-  <a href="https://linkedin.com/in/muzamil-hussain" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+  <a href="https://linkedin.com/in/your-profile" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin" />
   </a>
-  <a href="https://stackoverflow.com/users/muzamil-hussain" target="_blank">
-    <img src="https://img.shields.io/badge/-StackOverflow-FE7A16?style=for-the-badge&logo=stack-overflow" alt="StackOverflow" />
+
+  <a href="https://instagram.com/your-profile" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram" />
   </a>
-  <a href="https://instagram.com/muzamil-hussain" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram" alt="Instagram" />
+
+  <a href="https://stackoverflow.com/users/your-id" target="_blank">
+    <img src="https://img.shields.io/badge/-StackOverflow-FE7A16?style=for-the-badge&logo=stack-overflow" />
   </a>
 </p>
 
 ---
 
-### 😎 Fun Zone
+## 😎 Fun Zone
+
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
   <br>
-  <img src="https://random-memer.herokuapp.com/" alt="Random Meme" />
+  <img src="https://random-memer.herokuapp.com/" />
 </p>
 
 ---
 
-### 🚀 Let's Build Something Great!
-💖 *Open to collaborations, projects, and making an impact in the tech world!*
+## 🚀 Let's Build Something Great!
+
+💖 Open to collaborations, internships, and impactful projects.
 
 ---
 
-🔥 *Powered by passion, code, and coffee!* ☕
+🔥 *Powered by consistency, code, and coffee.* ☕
