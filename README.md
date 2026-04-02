@@ -10,9 +10,7 @@
 
 ---
 
-<p align="center">
-  <img src="https://github.com/muzamilhunzai/muzamilhunzai/assets/00000000/hero-gradient-banner.png" width="100%" height="280" style="border-radius: 16px; object-fit: cover;" alt="Hero Banner" />
-</p>
+
 
 <div align="center">
 
