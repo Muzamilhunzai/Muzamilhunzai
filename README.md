@@ -166,8 +166,7 @@ Python-powered autonomous system that scrapes, structures, and delivers web data
   </a>
 </p>
 
-**LinkedIn**: [Add your LinkedIn URL]  
-**X (Twitter)**: [Add your X profile]
+
 
 ---
 
